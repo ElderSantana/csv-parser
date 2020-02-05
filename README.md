@@ -1,3 +1,5 @@
+Author : Elder santos - eldersatana93@gmail.com
+
 # csv Parser challenge
 A simple example csv Parser
 
